@@ -20,9 +20,6 @@
 
 ![Yaigenes's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaigenes&theme=merko&show_icons=true)
 
-<hr/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaigenes&layout=compact)](https://github.com/yaigenes/github-readme-stats)
 
 
 <!---
