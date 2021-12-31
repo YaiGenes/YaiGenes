@@ -3,7 +3,7 @@
 
 <hr/>
 
-<p align="left">In detail, I am a multifaceted professional. I have experience working in the international arena with NGOs like the International Seed Federation Secretariat and the UNDP in Intellectual Property and Project Management respectively. Furthermore, I spent several years working as a researcher assistant in a trace element detection lab. In the plant breeding field, I have been working as breeder assistant with projects on Solanaceae and in leguminous I spent several months working with in vitro culture and hydroponic culture. Currently, involved in a highly practical master in Software Development training to jump to latest tech revolution with the ITs</p>
+<p align="left">In short, I am a multifaceted professional. I have experience working in the international arena with NGOs like the International Seed Federation Secretariat and the UNDP in Intellectual Property and Project Management respectively. Furthermore, I spent several years working as a researcher assistant in a trace element detection lab. In the plant breeding field, I have been working as breeder assistant with projects on Solanaceae and in leguminous I spent several months working with in vitro culture and hydroponic culture. Currently, involved in a highly practical master in Software Development training to jump to latest tech revolution with the ITs</p>
 
 <hr/>
 
