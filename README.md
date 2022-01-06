@@ -3,7 +3,7 @@
 
 <hr/>
 
-<p align="left">In short, I am a multifaceted professional. I have experience working in the international arena with NGOs like the International Seed Federation Secretariat and the UNDP in Intellectual Property and Project Management respectively. Furthermore, I spent several years working as a researcher assistant in a trace element detection lab. In the plant breeding field, I have been working as breeder assistant with projects on Solanaceae and in leguminous I spent several months working with in vitro culture and hydroponic culture. Currently, involved in a highly practical master in Software Development training to jump to latest tech revolution with the ITs</p>
+<p align="center">My passion for understanding how we can face biological challenges like pandemic emergencies or climate change crisis has been guiding me to take the way of software development. Throughout my experience I have been learning about the potential of software development to push humanity to the next level where there are not gonna be any biological boundaries, just our mind will be our limit. So, I would like to be in this journey contributing to the next level human jump!!</p>
 
 <hr/>
 
